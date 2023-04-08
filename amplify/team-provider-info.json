@@ -15,7 +15,7 @@
       "function": {
         "addPost": {
           "deploymentBucketName": "amplify-pickleapp-dev-235901-deployment",
-          "s3Key": "amplify-builds/addPost-79505970634e774c7469-build.zip"
+          "s3Key": "amplify-builds/addPost-53714143626753567269-build.zip"
         },
         "updatePost": {
           "deploymentBucketName": "amplify-pickleapp-dev-235901-deployment",
@@ -23,7 +23,7 @@
         },
         "deletePost": {
           "deploymentBucketName": "amplify-pickleapp-dev-235901-deployment",
-          "s3Key": "amplify-builds/deletePost-72576f50616956624767-build.zip"
+          "s3Key": "amplify-builds/deletePost-4662365163654f344c62-build.zip"
         }
       },
       "api": {

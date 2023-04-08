@@ -9,6 +9,14 @@
           ],
           "category": "function",
           "resourceName": "updatePost"
+        },
+        {
+          "attributes": [
+            "Name",
+            "Arn"
+          ],
+          "category": "function",
+          "resourceName": "addPost"
         }
       ],
       "providerPlugin": "awscloudformation",

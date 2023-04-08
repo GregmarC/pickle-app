@@ -9,8 +9,8 @@ const params = {
   TableName : 'Post',
   /* Item properties will depend on your application concerns */
   Item: {
-     id: 2,
-     postMsg: 'Second lambda'
+     id: 3,
+     postMsg: 'third lambda'
   }
 }
 
